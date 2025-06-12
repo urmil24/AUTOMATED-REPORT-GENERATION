@@ -100,6 +100,21 @@ By combining **data analysis, visualization, and report generation**, this proje
 - Add email automation to send reports
 - Export to HTML and Word formats as well
 
+# OUTPUT 
+![Image](https://github.com/user-attachments/assets/702d83e9-b7f1-4e8e-b7fa-3d6df7ff2e9e)
+
+![Image](https://github.com/user-attachments/assets/b50267f3-3fe9-400e-83c6-bef6ed7cff25)
+
+![Image](https://github.com/user-attachments/assets/176d579b-c402-46c5-96a1-5a00e4e61285)
+
+![Image](https://github.com/user-attachments/assets/4438ba65-58b0-48e0-ba9e-15ea66979eff)
+
+![Image](https://github.com/user-attachments/assets/d3ab9c5b-dafc-45ce-b467-38b8364af441)
+
+![Image](https://github.com/user-attachments/assets/ca9dc5a3-d13b-4080-bf52-6866391c3228)
+
+![Image](https://github.com/user-attachments/assets/d21be463-a4f1-4c71-969b-5b17d72d5131)
+
 
 
 
